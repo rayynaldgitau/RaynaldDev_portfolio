@@ -97,7 +97,7 @@ export const About = () => {
                     </div>
                </div>     
           </div>
-          </RevealOnScroll>S 
+          </RevealOnScroll> 
 
      </section>
 }
