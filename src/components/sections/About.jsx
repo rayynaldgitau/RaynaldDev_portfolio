@@ -20,7 +20,7 @@ export const About = () => {
           "MySQL",
      ];
 
-     return <section id="about" className="min-h-screen flex items-center justify-centre py-20"
+     return <section id="about" className="min-h-screen flex items-center justify-center py-20"
      >
           <RevealOnScroll>
 
