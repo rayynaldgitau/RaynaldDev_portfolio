@@ -9,7 +9,7 @@ export const About = () => {
           "Next.js",
           "Tailwind CSS",
           "Bootstrap",
-          "Vue",
+          "VueJs",
      ];
 
      const backendSkills = [
